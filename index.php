@@ -11,7 +11,7 @@
   <body>
     <div class="container">
       <header>
-        <img src="libs/images/logo.svg" alt="Spartan Hosting logo" class="logo" />
+        <!img src="libs/images/logo.svg" alt="Spartan Hosting logo" class="logo" />
 
         <nav>
           <a href="#" class="hide-desktop">
@@ -26,11 +26,11 @@
             <li id="exit" class="exit-btn hide-desktop">
               <img src="libs/images/exit.svg" alt="exit menu" />
             </li>
-            <li><a href="/hosting/index.php">Inicio</a></li>
+            <li><a href="index.php">Inicio</a></li>
             <li><a href="#">Servicios</a></li>
             <li><a href="#">Sobre Nosotros</a></li>
-            <li><a href="/hosting/contactar.php">Contacto</a></li>
-            <li><a href="/hosting/login.php">Área de Clientes</a></li>
+            <li><a href="https://blog.cyberspartan.es">Contacto</a></li>
+            <li><a href="http://cyberspartan.es/intranet">Área de Clientes</a></li>
           </ul>
         </nav>
       </header>
@@ -96,14 +96,14 @@
 
     <div class="container">
       <h2>¿Quieres consultar alguna duda o ponerte en contacto con nosotros?</h2>
-      <a href="#" class="cta">Formulario de Contacto</a>
+      <a href="http://blog.cyberspartan.es" class="cta">Formulario de Contacto</a>
     </div>
 
     <footer>
       <div class="footer-container">
         <div class="container">
           <a href="#">
-            <img src="libs/images/logo-white.svg" alt="logo" class="logo" />
+            <!img src="libs/images/logo-white.svg" alt="logo" class="logo" />
           </a>
           <p>Granada, 18001<br />España</p>
           <ul class="footer-links">
